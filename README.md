@@ -6,9 +6,9 @@ Timed coding quiz that has multiple-choice questions.
 
 ## Links
 
-[Deployed website]()
+[Deployed website](https://ayesslee.github.io/coding-quiz/)
 
-[Github]()
+[Github](https://github.com/ayesslee/coding-quiz)
 
 
 ## Installation
