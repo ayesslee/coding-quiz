@@ -26,7 +26,9 @@ the button will turn red.
 ## Credits
 
 [YouTube](https://www.youtube.com)
+
 [W3Schools](https://www.w3schools.com)
+
 [Google](https://www.google.com)
 
 ## License
